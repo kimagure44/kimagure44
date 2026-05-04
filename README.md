@@ -13,7 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kimagure44&show_icons=true&locale=en&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimagure44&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="170" />
   <br />
-  <!-- ✅ herokuapp caído — reemplazado por demolab -->
   <img src="https://streak-stats.demolab.com/?user=kimagure44&theme=tokyonight" />
 </div>
 
@@ -24,13 +23,13 @@
 <p align="left">
   <!-- Fila 1 -->
   <!-- Fila 1 — todo junto en skillicons -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,vue,svelte,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,vue,svelte,tailwind,bootstrap" />
 
   <br><br>
-<!-- Bulma, Vuetify y Quasar no están en skillicons, usar simpleicons vía shields.io -->
-<img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
-<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
-<img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
+  <!-- Bulma, Vuetify y Quasar no están en skillicons, usar simpleicons vía shields.io -->
+  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
   <!-- Fila 2 -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,babel,webpack,gulp" />
   <a href="https://pugjs.org"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40" height="40"/></a>

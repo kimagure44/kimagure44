@@ -6,13 +6,15 @@
 ---
 
 ### 📊 Stats & Achievements
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kimagure44&theme=flat&column=7&no-bg=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=kimagure44&show_icons=true&locale=en&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimagure44&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="170" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimagure44&theme=tokyonight" />
+  <!-- ✅ herokuapp caído — reemplazado por demolab -->
+  <img src="https://streak-stats.demolab.com/?user=kimagure44&theme=tokyonight" />
 </div>
 
 ---
@@ -48,6 +50,7 @@
 ---
 
 ### 📫 Connect with me
+
 <div align="center">
   <a href="https://twitter.com/frontsparrow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ivanlaragomez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

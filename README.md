@@ -20,34 +20,62 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <!-- Fila 1 -->
-  <!-- Fila 1 — todo junto en skillicons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,vue,svelte,tailwind,bootstrap" />
+<!-- Fila 1: Frontend -->
+<table><tr>
+  <td><img src="https://skillicons.dev/icons?i=html" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=css" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=js" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=ts" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=sass" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=react" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=vue" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=svelte" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></td>
+  <td><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" width="40" height="40"/></td>
+  <td><img src="https://bestofjs.org/logos/vuetify.svg" width="40" height="40"/></td>
+  <td><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="40" height="40"/></td>
+</tr></table>
 
-  <br><br>
-  <!-- Bulma, Vuetify y Quasar no están en skillicons, usar simpleicons vía shields.io -->
-  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
-  <!-- Fila 2 -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,babel,webpack,gulp" />
-  <a href="https://pugjs.org"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40" height="40"/></a>
-  <a href="https://cordova.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" width="40" height="40"/></a>
-  <a href="https://ionicframework.com"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="40" height="40"/></a>
-  <br><br>
-  <!-- Fila 3 -->
-  <img src="https://skillicons.dev/icons?i=cypress,jest,docker,git,jenkins,arduino,unity,electron,opencv,tensorflow" />
-  <a href="https://nativescript.org/"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" width="40" height="40"/></a>
-  <br><br>
-  <!-- Fila 4 -->
-  <a href="https://d3js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a>
-  <a href="https://jasmine.github.io/"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" width="40" height="40"/></a>
-  <a href="https://mochajs.org"><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40" height="40"/></a>
-  <a href="https://github.com/puppeteer/puppeteer"><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="40" height="40"/></a>
-  <img src="https://skillicons.dev/icons?i=postman" />
-</p>
+<!-- Fila 2: Backend & Tools -->
+<table><tr>
+  <td><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=express" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=mysql" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=firebase" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=babel" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=webpack" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=gulp" width="40"/></td>
+  <td><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="40" height="40"/></td>
+  <td><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" width="40" height="40"/></td>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="40" height="40"/></td>
+</tr></table>
+
+<!-- Fila 3: Testing & DevOps -->
+<table><tr>
+  <td><img src="https://skillicons.dev/icons?i=cypress" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=jest" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=docker" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=git" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=jenkins" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=arduino" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=unity" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=electron" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=opencv" width="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=tensorflow" width="40"/></td>
+  <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" width="40" height="40"/></td>
+</tr></table>
+
+<!-- Fila 4: Visualización & Testing extras -->
+<table><tr>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40"/></td>
+  <td><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></td>
+  <td><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" width="40" height="40"/></td>
+  <td><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40" height="40"/></td>
+  <td><img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="40" height="40"/></td>
+  <td><img src="https://skillicons.dev/icons?i=postman" width="40"/></td>
+</tr></table>
 
 ---
 

@@ -23,10 +23,13 @@
 
 <p align="left">
   <!-- Fila 1 -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,vue,svelte,tailwind,bootstrap" />
-  <a href="https://bulma.io/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" width="40" height="40"/></a>
-  <a href="https://vuetifyjs.com/"><img src="https://bestofjs.org/logos/vuetify.svg" width="40" height="40"/></a>
-  <a href="https://quasar.dev/"><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="40" height="40"/></a>
+  <!-- Fila 1 — todo junto en skillicons -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,vue,svelte,tailwind,bootstrap" />
+
+<!-- Bulma, Vuetify y Quasar no están en skillicons, usar simpleicons vía shields.io -->
+<img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+<img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
   <br><br>
   <!-- Fila 2 -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,babel,webpack,gulp" />
